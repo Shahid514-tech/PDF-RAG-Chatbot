@@ -65,7 +65,7 @@ By default, the app runs at:
 👉 [http://localhost:8501](http://localhost:8501)
 
 On **Hugging Face Spaces**, it will run at:
-👉 [https://your-space-url.hf.space](https://huggingface.co/spaces/EDITH02/PDF-RAG-Chatbot)
+👉 [https://huggingface.co/spaces/EDITH02/PDF-RAG-Chatbot](https://huggingface.co/spaces/EDITH02/PDF-RAG-Chatbot)
 
 ---
 
